@@ -1,1 +1,2 @@
-![My current school]([http://url/to/img.png](https://www.iths.se/wp-content/uploads/2016/02/thumbnails/ithslogoliggandepayoffrgb-4601-1280x450.png)https://www.iths.se/wp-content/uploads/2016/02/thumbnails/ithslogoliggandepayoffrgb-4601-1280x450.png)
+![My current school]([![image](https://github.com/Oasisktesh/readme./assets/143489570/6ae5fade-5e98-4448-83d3-59bedcd31cf2)
+)
