@@ -1,1 +1,1 @@
-(https://www.iths.se/wp-content/uploads/2016/02/thumbnails/ithslogoliggandepayoffrgb-4601-1280x450.png)
+![My current school]([http://url/to/img.png](https://www.iths.se/wp-content/uploads/2016/02/thumbnails/ithslogoliggandepayoffrgb-4601-1280x450.png)https://www.iths.se/wp-content/uploads/2016/02/thumbnails/ithslogoliggandepayoffrgb-4601-1280x450.png)
